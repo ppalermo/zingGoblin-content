@@ -1,0 +1,16 @@
+source_type: youtube  # youtube, x, tiktok, or manual
+source_id: unique-id-or-video-id
+source_url: https://youtube.com/watch?v=...
+title: Video or content title
+description: Brief description of the content
+priority: high  # low, medium, or high
+
+# Optional fields
+source_author: Author Name
+source_author_handle: "@authorhandle"
+
+metadata:
+  notes: Why this content is interesting
+  tags:
+    - politics
+    - controversy
